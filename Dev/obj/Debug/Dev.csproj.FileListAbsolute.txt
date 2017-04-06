@@ -1,0 +1,17 @@
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Dev\Dev\bin\Debug\Dev.exe.config
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Dev\Dev\bin\Debug\Dev.exe
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Dev\Dev\bin\Debug\Dev.pdb
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Dev\Dev\obj\Debug\Dev.Frm.resources
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Dev\Dev\obj\Debug\Dev.Properties.Resources.resources
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Dev\Dev\obj\Debug\Dev.csproj.GenerateResource.Cache
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Dev\Dev\obj\Debug\Dev.exe
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Dev\Dev\obj\Debug\Dev.pdb
+C:\Users\Kslm_p\Documents\Visual Studio 2013\Projects\Dev\Dev\bin\Debug\Dev.exe.config
+C:\Users\Kslm_p\Documents\Visual Studio 2013\Projects\Dev\Dev\obj\Debug\Dev.exe
+C:\Users\Kslm_p\Documents\Visual Studio 2013\Projects\Dev\Dev\obj\Debug\Dev.pdb
+C:\Users\Kslm_p\Documents\Visual Studio 2013\Projects\Dev\Dev\bin\Debug\Dev.exe
+C:\Users\Kslm_p\Documents\Visual Studio 2013\Projects\Dev\Dev\bin\Debug\Dev.pdb
+C:\Users\Kslm_p\Documents\Visual Studio 2013\Projects\Dev\Dev\obj\Debug\Dev.csprojResolveAssemblyReference.cache
+C:\Users\Kslm_p\Documents\Visual Studio 2013\Projects\Dev\Dev\obj\Debug\Dev.Frm.resources
+C:\Users\Kslm_p\Documents\Visual Studio 2013\Projects\Dev\Dev\obj\Debug\Dev.Properties.Resources.resources
+C:\Users\Kslm_p\Documents\Visual Studio 2013\Projects\Dev\Dev\obj\Debug\Dev.csproj.GenerateResource.Cache
